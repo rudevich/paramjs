@@ -10,7 +10,7 @@ If you need custom previewer for your form, you can create a custom template, bu
 - supports params dependencies;
 - supports custom data-types;
 - supports custom validation functions;
-- supports theming;
+- supports theming.
 
 Documentation and code coming soon (in the next episode =) :)
 
