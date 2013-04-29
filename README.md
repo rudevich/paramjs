@@ -47,7 +47,7 @@ PS
 =======
 Documentation and code coming soon (in the next episode =) :)
 
-License:
+License
 =======
 MIT
 Param.js originally developed for Omnicomm (http://www.omnicomm.ru/).
