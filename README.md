@@ -9,6 +9,7 @@ If you need custom previewer for your form, you can create a custom template, bu
 - was written in pure JavaScript, that makes it compatible with all libraries whatever you want;
 - supports params dependencies;
 - supports custom data-types;
+- supports custom data-properties;
 - supports custom validation functions;
 - supports theming.
 
