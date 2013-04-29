@@ -12,7 +12,7 @@ If you need custom previewer for your form, you can create a custom template, bu
 - supports custom validation functions;
 - supports theming.
 
-Supported Data-types
+Supported data-types
 =======
 - integer
 - float
