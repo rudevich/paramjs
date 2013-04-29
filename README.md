@@ -12,6 +12,41 @@ If you need custom previewer for your form, you can create a custom template, bu
 - supports custom validation functions;
 - supports theming.
 
+Supported Data-types
+=======
+- integer
+- float
+- enum
+- string
+- custom (whatever you want)
+
+All data-types support such limit-properties:
+
+Supported data-properties
+=======
+- maxlength
+- minvalue
+- maxvalue
+- visibility
+- regexp
+- default
+- dependencies
+- required
+- readonly
+- type
+- visibility
+- alone
+- etc (whatever you want)
+
+Data-dependencies:
+=======
+(coming soon)
+
+PS
+=======
 Documentation and code coming soon (in the next episode =) :)
 
-PS Param.js originally developed for Omnicomm (http://www.omnicomm.ru/).
+License:
+=======
+MIT
+Param.js originally developed for Omnicomm (http://www.omnicomm.ru/).
