@@ -14,4 +14,4 @@ If you need custom previewer for your form, you can create a custom template, bu
 
 Documentation and code coming soon (in the next episode =) :)
 
-PS Param.js originally developed for Omnicomm (http://omnicomm.ru).
+PS Param.js originally developed for Omnicomm (http://www.omnicomm.ru/).
