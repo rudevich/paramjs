@@ -38,7 +38,7 @@ Supported data-properties
 - alone
 - etc (whatever you want)
 
-Data-dependencies:
+Data-dependencies
 =======
 (coming soon)
 
