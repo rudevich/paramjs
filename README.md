@@ -14,8 +14,7 @@ If you need custom previewer for your form, you can create a custom template, bu
 - supports custom validation functions;
 - supports theming.
 
-Supported data-types
-=======
+### Supported data-types
 - integer
 - float
 - enum
@@ -24,8 +23,7 @@ Supported data-types
 
 All data-types support such limit-properties:
 
-Supported data-properties
-=======
+### Supported data-properties
 - maxlength
 - minvalue
 - maxvalue
@@ -40,15 +38,12 @@ Supported data-properties
 - alone
 - etc (whatever you want)
 
-Data-dependencies
-=======
-(coming soon)
+### Data-dependencies
+All properties of params can be dependable on other params.
 
-PS
-=======
+### PS
 Documentation and code coming soon (in the next episode =) :)
 
-License
-=======
+### License
 MIT
 Param.js originally developed for Omnicomm (http://www.omnicomm.ru/).
