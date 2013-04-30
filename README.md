@@ -40,19 +40,22 @@ All data-types support such limit-properties:
 
 ### Data-dependencies
 All properties of params can be dependable on other params. So in pattern (rules for params) you can set them like this:
-    'param1': {
-      "default": "valueOfParam1",
-      "dependencies": {
-        "dependableParam": [
-          {
-            "value": "valueOfParam1",
-            "properties": [
-              ["property", "value"]
-            ]
-          }
+```javascript
+"param1": {
+  "default": "valueOfParam1",
+  "dependencies": {
+    "dependableParam": [
+      {
+        "value": "valueOfParam1",
+        "properties": [
+          ["property", "dependableValue"]
         ]
       }
-    }
+    ]
+  }
+}
+```
+So this mean that if "param1" have a value like "valueOfParam1", then "dependableParam" should have a value like "dependableValue".
 
 ### PS
 Documentation and code coming soon (in the next episode =) :)
