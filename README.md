@@ -57,10 +57,10 @@ All properties of params can be dependable on other params. So in pattern (rules
 ```
 So this mean that if "param1" have a value like "valueOfParam1", then "dependableParam" should have a value like "dependableValue".
 
-### PS
-Documentation and code coming soon (in the next episode =) :)
-
 ### License
 MIT
+
+----------
+
 Param.js originally developed for [Omnicomm][1].
   [1]: http://www.omnicomm.ru
