@@ -7,6 +7,7 @@ If you need custom previewer for your form, you can create a custom template, bu
 - already supports a lot of data-types, and it's truly rare situation, when you need to add your own; 
 - works both at the client and at the server-side (node.js);
 - was written in pure JavaScript, that makes it compatible with all libraries whatever you want;
+- have special editor, that makes creation and modification of rules easy;
 - supports params dependencies;
 - supports custom data-types;
 - supports custom data-properties;
