@@ -62,4 +62,5 @@ Documentation and code coming soon (in the next episode =) :)
 
 ### License
 MIT
-Param.js originally developed for Omnicomm (http://www.omnicomm.ru/).
+Param.js originally developed for [Omnicomm][1].
+  [1]: http://www.omnicomm.ru
