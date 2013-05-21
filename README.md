@@ -60,6 +60,8 @@ So this mean that if "param1" have a value like "valueOfParam1", then "dependabl
 ### License
 MIT
 
+### PS
+Good story bro ;)
 ----------
 
 Param.js originally developed for [Omnicomm][1].
